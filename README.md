@@ -60,21 +60,21 @@ The dashboards were consolidated into the Online Shopping Insights Hub, providin
 
 Explore the interactive dashboards here: Power BI Public
 
-Project Files
+## Project Files
 
-Individual Visualizations: Power BI visualizations based on SQL queries.
+- **Individual Visualizations:** Power BI visualizations based on SQL queries.
 
-Dashboards: Images of interactive dashboards.
+- **Dashboards:** Images of interactive dashboards.
 
-README.md: Project overview.
+- **README.md:** Project overview.
 
-create_database.sql: SQL script for database creation.
+- **create_database.sql:** SQL script for database creation.
 
-analyze_data.sql: SQL queries for dataset analysis.
+- **analyze_data.sql:** SQL queries for dataset analysis.
 
-ER Diagram: Relational database structure.
+- **ER Diagram:** Relational database structure.
 
-Power BI File: Complete Power BI dashboard file.
+- **Power BI File:** Complete Power BI dashboard file.
     
 ## Conclusion
 **Customer Demographic:**
