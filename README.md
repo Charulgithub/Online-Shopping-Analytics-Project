@@ -56,16 +56,25 @@ The individual visualizations were grouped into five interactive dashboards:
 After receiving feedback, the five dashboards have been consolidated into a comprehensive hub:
   - **Online Shopping Insights Hub:** Integrates all five dashboards into a single interface, offering in-depth analysis of insights and patterns.
     
-Each dashboard provides an interactive user experience, allowing users to explore and highlight factors they deem important. To interact with the dashboards visit: ['Tableau Public'](https://public.tableau.com/app/profile/jordan.ho1006/viz/online_shopping_analytics_v2/OnlineShoppingInsightsHubv2)
+The dashboards were consolidated into the Online Shopping Insights Hub, providing an interactive exploration experience.
 
-## Files Included
-  - ['Individual Visualizations'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Individual%20Visualizations): The individual visualizations created in Tableau based on SQL query findings.
-  - ['Dashboards'](https://github.com/jordanho1006/sql-tableau-projects/tree/main/Online%20Shopping%20Analytics%20Project/Dashboards): The interactive dashboards created on Tableau. *Note: These are just images of the interactive dashboards*
-  - ['README.md'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/README.md): This file provides an overview of the project.
-  - ['create_database.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/create_database_v2.sql): The Raw SQL query for constructing the relational database.
-  - ['analyze_data.sql'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/analyze_data_v2.sql): The Raw SQL query for extensive dataset exploration.
-  - ['er-diagram.png'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/er_diagram.PNG): This file provides a simple ER diagram depicting the relational database structure.
-  - ['online_shopping_analytics.twbx'](https://github.com/jordanho1006/sql-tableau-projects/blob/main/Online%20Shopping%20Analytics%20Project/online_shopping_analytics_v2.twbx): This Tableau file compromises all the data visualizations and interactive dashboards.
+Explore the interactive dashboards here: Power BI Public
+
+Project Files
+
+Individual Visualizations: Power BI visualizations based on SQL queries.
+
+Dashboards: Images of interactive dashboards.
+
+README.md: Project overview.
+
+create_database.sql: SQL script for database creation.
+
+analyze_data.sql: SQL queries for dataset analysis.
+
+ER Diagram: Relational database structure.
+
+Power BI File: Complete Power BI dashboard file.
     
 ## Conclusion
 **Customer Demographic:**
